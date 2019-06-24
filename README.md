@@ -1,7 +1,7 @@
 # Automated_Essay_Marking
 Automated Essay Marking using Convolutional Neural Networks and Word Embeddings 
 
-Supervisor: Dr. Frank C Langbein 
+Supervisor: Dr. Frank C Langbein
 Moderator: Dr. Jing Wu 
 Date of Submission: 11/05/2018 
 
